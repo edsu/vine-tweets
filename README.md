@@ -1,1 +1,1 @@
-Check out the [Notebook](blob/master/vine-tweets.ipynb).
+Check out the [Notebook](vine-tweets.ipynb).
